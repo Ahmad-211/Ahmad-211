@@ -19,7 +19,6 @@
 ## 🚀 About Me
 
 I am a **Computer Science student at FAST-NUCES** with strong expertise in **full-stack development and AI-powered systems**.
-
 I specialize in building **scalable web applications, automation testing solutions, and intelligent systems using NLP and Generative AI**.  
 I am passionate about solving real-world problems through **high-performance, data-driven, and user-focused applications**.
 
