@@ -93,12 +93,15 @@ I am passionate about solving real-world problems through **high-performance, da
 
 ## 💼 Experience
 
-### 🧑‍💻 Intern — EvalonQA (June 2025 – July 2025)
 
+### 🧑‍💻 Intern — EvalonQA (June 2025 – July 2025)
 - Developed **end-to-end and functional automation tests** using Cypress & Playwright  
 - Performed **API testing** to validate backend services  
 - Automated regression testing and analyzed failures to debug system issues  
 
+### 🎓 Teaching Assistant — FAST-NUCES
+- Mentored and evaluated **150+ students**, providing technical guidance and academic support.
+- Assisted in core courses: **Computer Networks**, **Design and Analysis of Algorithms**, and **Software Design and Analysis**.
 ---
 
 ## 🚀 Projects
@@ -111,22 +114,33 @@ I am passionate about solving real-world problems through **high-performance, da
 ---
 
 ### 💼 Smart Job Portal – AI Recruitment Platform
-- MERN stack app with **AI-based job matching (85%+ accuracy)**  
-- Implemented **resume parsing, NLP-based skill extraction, candidate ranking**  
-- Built secure **JWT authentication with role-based dashboards**
+- MERN stack app with **AI-based job matching (85%+ accuracy)** - Implemented **resume parsing, NLP-based skill extraction, candidate ranking** - Built secure **JWT authentication with role-based dashboards**
+
+---
+
+### 🧾 Auto Smart  Khata  & Inventory Manager 
+-  A full-stack automated ERP for automotive spare parts, implementing a headless Django REST backend to manage 
+high-volume inventory and credit-based Khata ledgers with transactional integrity.
 
 ---
 
 ### 🧾 RAG for Clinical Notes
 - Developed **RAG-based medical Q&A system** using MIMIC-IV dataset  
-- Implemented **LLM + vector database retrieval system**  
-- Built interactive UI using Streamlit  
+- Implemented **LLM + vector database retrieval system** - Built interactive UI using Streamlit  
 
 ---
 
 ### 🌐 QueryNest – Q&A Platform
 - Stack Overflow–like platform using Node.js & MySQL  
-- Features: question posting, search, and community responses  
+- Features: question posting, search, and community responses
+  
+---
+
+## 📂 Portfolio
+
+https://portfolio-muhammad-ahmad.vercel.app/
+
+---
 
 ---
 
